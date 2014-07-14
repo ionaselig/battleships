@@ -1,0 +1,2 @@
+#Battleships
+>Battleships is a turn based two player game. The grid is 10 x 10, identified by Letter and Number. On one boardm the player arranges their own ships and records shots take by their opponent. On the other board the player records their own shots. A ship is sun if the whole ship is shit. If you record a hit, you keep playing till you miss. The game ends when all of a player's ships has sunk.
